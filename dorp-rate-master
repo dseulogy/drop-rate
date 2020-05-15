@@ -1,0 +1,20 @@
+Monster 	Level 	Boss 	Level 	Spawn rate (%)
+Bear 	8 	Beruda Lize 	8 	1.0
+Spirit of Fierce Giant Wolf 	20 	Wild Mane 	11 	5.0
+Bloodthirsty Demon Vine 	28 	Joblid the Giant Flower 	25 	0.5
+Winternight Ice Witch 	35 	Aisha 	45 	0.03
+Ystra Winter Spider 	35 	Anselve 	45 	0.01
+Silanklir 	35 	Aisha 	45 	5.0
+Stone-Clawed Dragon 	40 	Scion Locface 	45 	10.0
+Red Winged Harpy 	45 	Ayelo 	48 	0.1
+Giant Needle Cactus 	45 	Giant Fruit Cactus 	45 	75.0
+Giant Flower Cactus 	45 	Giant Needle Cactus 	45 	50.0
+Giant Fruit Cactus 	45 	Giant Needle Cactus 	45 	75.0
+Sandstone Messenger 	55 	Aisha 	45 	0.03
+Sandstone Messenger 	55 	Aisha 	45 	0.03
+Hippogriff King Wodjin 	57 	Furious Wodjin 	75 	55.0
+Blind Hackman 	58 	Resentful Hackman 	75 	55.0
+Spider Priestess Mandara 	63 	Resentful Mandara 	75 	55.0
+Furious Wodjin 	75 	Hippogriff King Wodjin 	57 	100.0
+Resentful Hackman 	75 	Blind Hackman 	58 	100.0
+Resentful Mandara 	75 	Spider Priestess Mandara 	63 	100.0
